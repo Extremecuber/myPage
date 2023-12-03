@@ -1,2 +1,2 @@
 # myPage
-Author - Vikyath
+Author - Vikyath (owner)
